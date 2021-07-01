@@ -13,3 +13,6 @@ It use OCI related projects and libraries for different aspects:
 
 ## Status of `ronqir`
 The project is still in the design and prototype development stage, and a verification version is expected to be released soon.
+
+## License
+ronqir is licensed under the [Apache License 2.0](./LICENSE) license.
