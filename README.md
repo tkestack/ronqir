@@ -12,6 +12,10 @@ It uses OCI related projects and libraries for different aspects:
 - OCI runtime: youki(an implementation of runtime-spec in Rust, referring to runc, https://github.com/containers/youki)
 - container lib in Rust: containrs(a new general purpose container library written in Rust, https://github.com/cri-o/containrs)
 
+
+## Architecture
+![](./static/arch.png)
+
 ## Status of `ronqir`
 The project is still in the design and prototype development stage, and a verification version is expected to be released soon.
 
